@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Kapil 👋
 
-<!--
-**Kapil9711/kapil9711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔭 I’m currently working on [Softech](https://softech.com)
+- 🌱 I’m currently learning React and Next.js
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about JavaScript, React, and Node.js
+- 📫 How to reach me: [kapil@example.com](mailto:kapil@example.com)
+- ⚡ Fun fact: I love coding challenges and playing chess!
 
-Here are some ideas to get you started:
+### GitHub Stats
+![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapil123&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapil123&layout=compact&theme=radical)](https://github.com/kapil123/github-readme-stats)
+
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kapil123)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kapil123)
