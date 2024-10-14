@@ -29,19 +29,9 @@ A passionate frontend developer from India. I'm a Full Stack Web Developer skill
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## 🚀 My Top Projects
-- **[Instagram-Clone](#)**: An online image-sharing and social media platform where you can upload images, like, and comment on others' pics.
-- **[Lybrate-Clone](#)**: A clone of Lybrate, built using the MERN stack.
-- **[Translation-App](#)**: An app that translates text using various APIs.
-- **[Mini-Store](#)**: A small e-commerce store built with the MERN stack.
-- **[Weather-App](#)**: A simple app to display current weather data for different locations.
-- **[Adidas-Clone](#)**: A replica of the Adidas e-commerce site.
-- **[MailChimp-Store](#)**: A collaborative project that provides a platform for users to create their own online store.
-- **[Task-Planner](#)**: A task management tool where you can create sprints and assign tasks.
-
 ## 📊 My GitHub Stats
-![Monu Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=monumarquis&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monumarquis&layout=compact&theme=radical)](https://github.com/monumarquis/github-readme-stats)
+![Monu Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapil9711&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapil9711&layout=compact&theme=radical)](https://github.com/monumarquis/github-readme-stats)
 
 ## 📈 GitHub Commits Graph
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=monumarquis&theme=rogue)
