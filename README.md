@@ -8,8 +8,8 @@ A passionate frontend developer from India. I'm a Full Stack Web Developer skill
 - 🔭 I’m currently working on Google Authentication
 - 🌱 I’m currently learning the MERN Stack
 - 💬 Ask me about HTML, Advanced CSS, VanillaJS, ReactJs
-- 📫 How to reach me: [monumarquis@gmail.com](mailto:monumarquis@gmail.com)
-- 📜 [Download Resume](#) <!-- Add your resume link here -->
+- 📫 How to reach me: [kapil.rajput9711@gmail.com](mailto:kapil.rajput9711@gmail.com)
+- 📜 [Download Resume](#) (https://drive.google.com/uc?export=download&id=1xkuXKvyAVoewx1bjvR229bSsNtTcScIC)
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
