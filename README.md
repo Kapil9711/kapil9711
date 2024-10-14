@@ -30,8 +30,8 @@ A passionate frontend developer from India. I'm a Full Stack Web Developer skill
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ## 📊 My GitHub Stats
-![Monu Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapil9711&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapil9711&layout=compact&theme=radical)](https://github.com/monumarquis/github-readme-stats)
+![kapil rajput GitHub stats](https://github-readme-stats.vercel.app/api?username=kapil9711&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapil9711&layout=compact&theme=radical)](https://github.com/kapil9711/github-readme-stats)
 
 ## 📈 GitHub Commits Graph
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=monumarquis&theme=rogue)
