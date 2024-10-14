@@ -1,6 +1,6 @@
-# Hi, I'm Monu Yadav 👋
+# Hi, I'm Kapil Rajput 👋
 
-![m-yadav followers-count](https://img.shields.io/github/followers/m-yadav?style=social)
+
 
 A passionate frontend developer from India. I'm a Full Stack Web Developer skilled in the MERN stack who likes to experiment and is always ready to learn new things 😃. I focus on writing clean, elegant, and efficient code.
 
