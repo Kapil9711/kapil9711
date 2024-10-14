@@ -36,9 +36,4 @@ A passionate frontend developer from India. I'm a Full Stack Web Developer skill
 ## 📈 GitHub Commits Graph
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=kapil9711&theme=rogue)
 
-## 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monu-yadav-2003m)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MonuMarquis)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat)](https://monumarquis.github.io/)
-[![Email](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](mailto:monumarquis@gmail.com)
 
