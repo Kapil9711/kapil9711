@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love coding challenges and playing chess!
 
 ### GitHub Stats
-![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapil123&show_icons=true&theme=radical)
+![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapil9711&show_icons=true&theme=radical)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapil123&layout=compact&theme=radical)](https://github.com/kapil123/github-readme-stats)
