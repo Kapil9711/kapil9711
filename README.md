@@ -1,32 +1,57 @@
+<p align="center">
+  <img src="./assets/profile.png" alt="Kapil Rajput" width="180" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kapil Rajput</h1>
 
 <h3 align="center">
-Full Stack Software Engineer | MERN Stack Developer | JavaScript Enthusiast
+Full Stack Software Engineer • MERN Stack Developer • JavaScript Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications with clean architecture, modern UI, and performant backend systems.
+I build scalable, high-performance web applications with modern JavaScript technologies, clean architecture, and intuitive user experiences.
+</p>
+
+<p align="center">
+<a href="mailto:kapil.rajput9711@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kapil9711">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💼 Full Stack Developer specializing in the **MERN Stack**
-- 🌱 Currently exploring **Authentication, System Design & Scalable Backend Development**
-- 💡 Passionate about building responsive, performant, and user-friendly applications
-- 📚 Always learning new technologies and improving software engineering skills
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
-- 📫 **Email:** <a href="mailto:kapil.rajput9711@gmail.com">kapil.rajput9711@gmail.com</a>
+🚀 Full Stack Software Engineer from India passionate about building modern web applications.
+
+- 💼 MERN Stack Developer
+- ⚡ Focused on writing clean, maintainable and scalable code
+- 🌱 Currently exploring Authentication, System Design and Backend Architecture
+- 💡 Interested in Performance Optimization and Developer Experience
+- 🤝 Open to collaborating on Open Source and Full Stack projects
+- 📫 Reach me at **kapil.rajput9711@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap" />
 </p>
 
 ### Backend
@@ -35,19 +60,76 @@ Building scalable web applications with clean architecture, modern UI, and perfo
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,npm,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm,vscode,firebase" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 What I Work With
+
+- Responsive Web Applications
+- REST APIs
+- Authentication & Authorization
+- MongoDB Database Design
+- React Ecosystem
+- State Management
+- Performance Optimization
+- Clean UI Development
+
+---
+
+# 📂 Featured Projects
+
+## 🌟 Project One
+
+> Short description of your best project.
+
+**Tech Used**
+
+`React` `Node.js` `MongoDB` `Express`
+
+🔗 Live Demo
+
+🔗 GitHub Repository
+
+---
+
+## 🌟 Project Two
+
+> Short description of your second project.
+
+**Tech Used**
+
+`React` `Redux` `Express`
+
+🔗 Live Demo
+
+🔗 GitHub Repository
+
+---
+
+## 🌟 Project Three
+
+> Short description of your third project.
+
+**Tech Used**
+
+`MERN Stack`
+
+🔗 Live Demo
+
+🔗 GitHub Repository
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kapil9711&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kapil9711&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil9711&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -55,17 +137,7 @@ Building scalable web applications with clean architecture, modern UI, and perfo
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil9711&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -75,30 +147,50 @@ Building scalable web applications with clean architecture, modern UI, and perfo
 
 ---
 
-## 📌 Featured Projects
+# 📊 Contribution Graph
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚀 Project 1 | Short description here | React, Node.js |
-| 💬 Project 2 | Short description here | MERN |
-| 📦 Project 3 | Short description here | MongoDB, Express |
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil9711&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-<p>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kapil9711&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapil9711&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="mailto:kapil.rajput9711@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/kapil9711">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -107,6 +199,8 @@ Building scalable web applications with clean architecture, modern UI, and perfo
 
 <p align="center">
 
-⭐️ Thanks for visiting my profile.
+### Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
