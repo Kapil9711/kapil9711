@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/profile.png" alt="Kapil Rajput" width="180" />
+  <img src="https://github.com/kapil9711.png" width="180" alt="Kapil Rajput"/>
 </p>
-
 <h1 align="center">Hi 👋, I'm Kapil Rajput</h1>
 
 <h3 align="center">
